@@ -12,3 +12,7 @@
 > The app returns how many bicycles are available in the sharing points.
 
 > Each sharing point is an akka actor, and each actor holds it's state. (number of bicycles ...)
+
+#### Next steps 
+
+> Book bikes on specific sharing points, and update actor's state
